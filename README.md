@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @robokrishan
 - 👀 I’m interested in robotics and computer vision.
-- 🌱 I’m currently learning ROS development.
+- 🌱 I’m currently working on a custom embedded Flight Controller for Quadcopters.
 - 💞️ I’m looking to collaborate on Robot builds, advanced computer vision, machine learning.
 - 📫 How to reach me - haritkrishan176@gmail.com
 
