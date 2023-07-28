@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @robokrishan
-- 👀 I’m interested in robotics and computer vision.
-- 🌱 I’m currently working on a custom embedded Flight Controller for Quadcopters.
-- 💞️ I’m looking to collaborate on Robot builds, advanced computer vision, machine learning.
+- 👀 I’m interested in robotics and embedded systems.
+- 🌱 I’m currently working on an Autonomous Car project using a Raspberry Pi.
+- 💞️ I’m looking to collaborate on Robot builds, advanced computer vision, hardware design.
 - 📫 How to reach me - haritkrishan176@gmail.com
 
 <!---
